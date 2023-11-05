@@ -17,3 +17,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayyoubdev7&show_icons=true&locale=en&layout=compact" alt="ayyoubdev7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayyoubdev7&show_icons=true&locale=en" alt="ayyoubdev7" /></p>
+
+## Sponsor 💛
+
+Give a ⭐ if you like this website!
+<br>
+
+<a href="https://www.buymeacoffee.com/ayyoubdev7l"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
